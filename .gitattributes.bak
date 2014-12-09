@@ -6,7 +6,7 @@
 *.sln    merge=union
 *.csproj merge=union
 *.vbproj merge=union
-*.fsproj merge=union111
+*.fsproj merge=union
 
 
 # Standard to msysgit
